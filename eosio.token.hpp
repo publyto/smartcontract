@@ -1,6 +1,7 @@
-/**
- *  @file
- *  @copyright defined in eos/LICENSE.txt
+/* Copyright (C) Publyto, Inc - All Rights Reserved
+ * Unauthorized copying of this file, via any medium is strictly prohibited
+ * Proprietary and confidential
+ * Written by Publyto, December 2018
  */
 #pragma once
 
